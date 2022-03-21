@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/giaenuuu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fxgiaenuuu&screen_name=giaenuuu)
 
 
-- 📌 I am a software engineer 💻 currently working at [Edorex.ch](https://edorex.ch)
+- 📌 I am a software engineer student 💻 currently working at [Edorex.ch](https://edorex.ch)
 
 - 💤 When I am bored at home, I like to experiment with code
 
