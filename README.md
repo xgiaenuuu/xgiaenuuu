@@ -38,3 +38,5 @@
 <br />
 
 [![dannyverp's github stats](https://github-readme-stats.vercel.app/api?username=xgiaenuuu&show_icons=true&theme=default)](https://github.com/xgiaenuuu/)
+
+<a href="https://app.daily.dev/giaenuuu"><img src="https://github.com/xgiaenuuu/xgiaenuuu/blob/master/devcard.svg" width="400" alt="giaenuuu's Dev Card"/></a>
