@@ -61,7 +61,7 @@ I am currently an apprentice in switzerland ⛰️. I love javascript/typescript
 <br />
 
 ### If you like anything of my work
-<a href="https://www.buymeacoffee.com/giaenuuu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/giaenuuu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 
 
